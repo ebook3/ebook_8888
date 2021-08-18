@@ -110,3 +110,8 @@ justify-content: space-between;
             display: flex;
             justify-content: space-between;
         }
+        #telegram1 {
+position: absolute;
+top: 1775px;
+left: 0px;
+}
