@@ -115,3 +115,16 @@ position: absolute;
 top: 1775px;
 left: 0px;
 }
+/* телефоны горизонтально */
+@media (max-width: 767px) {
+img{
+    width: 272px;
+    height: 410px;
+}
+/* телефоны вертикально */
+@media (max-width: 480px) {
+    img{
+        width: 272px;
+        height: 410px;
+    }   
+}
